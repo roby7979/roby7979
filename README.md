@@ -1,9 +1,6 @@
 
 <h1 align="center"><b>Hi , I'm Roby7979 </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <!--  -->
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines;[eJPT] [eCPPT] [OSCP],;Ethical Hacking,;CTF on Hack The Box,;Cyber Security..<3"></a>
-</p>
 
 <br>
 	
@@ -87,41 +84,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=roby7979&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"  alt="roby7979"/>
 
 </a>
-</div>
 
 <br>
-<br>
-<br>
-
-<br>
-<br>
-
-<br>
-
-<ul>
-
-<li>
-
-</a>
-</li>
-
-<br>
-
-
-<br>
-
-<li>
-
-</a>
-</li>
-	
-</ul>
-</div>
-
-<br>
-
-
-
 
 </div>
 <br>
