@@ -21,7 +21,7 @@
 - Playing CTF's on Hack The Box
 - Currently learning Cyber Security
 - Personal Courses [link](https://www.youtube.com/channel/UCAwPX5amsoJBiJyj-vmHhcQl)
-- Discord Community[link](https://discord.gg/dG6bzkbrZk)
+- Discord Community [link](https://discord.gg/dG6bzkbrZk)
 
 
 <br><br>
@@ -97,12 +97,9 @@
 <br>
 <br>
 
------
-
 <br>
 <br>
 
-## <b> Let's Connect..!</b><img src="https://github.com/roby7979/roby7979/raw/main/assets/mdImages/handshake.gif" width ="80">
 <br>
 <div align='left'>
 
