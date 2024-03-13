@@ -13,7 +13,7 @@
 - A passionate Ethical Hacking
 - Playing CTF's on Hack The Box
 - Currently learning Cyber Security
-- Personal Courses [link](https://www.youtube.com/channel/UCAwPX5amsoJBiJyj-vmHhcQl)
+- Courses created on youtube [link](https://www.youtube.com/channel/UCAwPX5amsoJBiJyj-vmHhcQl)
 - Discord Community [link](https://discord.gg/dG6bzkbrZk)
 
 
