@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Roberto</h1>
-<h3 align="center">[eJPT][eCPPT][OSCP]  A passionate of Ethical Hacvking and Cyber Security</h3>
+<h3 align="center">[eJPT] [eCPPT] [OSCP]  A passionate of Ethical Hacvking and Cyber Security</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=roby7979&label=Profile%20views&color=0e75b6&style=flat" alt="roby7979" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=roby7979" alt="roby7979" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/https://twitter.com/modernnaval" target="blank"><img src="https://img.shields.io/twitter/follow/https://twitter.com/modernnaval?logo=twitter&style=for-the-badge" alt="https://twitter.com/modernnaval" /></a> </p>
+<p align="left"> <target="blank"><img src="https://img.shields.io/twitter/follow/https://twitter.com/modernnaval?logo=twitter&style=for-the-badge" alt="https://twitter.com/modernnaval" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
